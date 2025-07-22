@@ -10,7 +10,7 @@
 ![Index_pipeline](images/chatbot_index.drawio.png)
 
 
-###Query
+### Query
 ![Query_pipeline](images/chatbot_query.drawio.png)
 
 
